@@ -11,9 +11,11 @@ A backend API MVP for tracking tick sightings across the UK, built for the Elanc
 * Virtual environment (recommended)
 
 ### Installation
-1. Clone the repository (or navigate to the project folder)
+1. Clone the repository (using Terminal/Command Prompt/PowerShell)
 ```
-cd "Elanco Backend Task"
+git clone https://github.com/MoKibz/Elanco-Backend-Task.git
+
+cd "Elanco-Backend-Task"
 
 ```
 
