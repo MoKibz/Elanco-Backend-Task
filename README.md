@@ -50,7 +50,7 @@ fastapi dev src/main.py
 
 ```
 3. View the API
-Open your browser by clicking [here](https://www.google.com/search?q=http://127.0.0.1:8000/docs)
+Open your browser by clicking [here](http://127.0.0.1:8000/docs)
 
 
 ## Project Walkthrough:
