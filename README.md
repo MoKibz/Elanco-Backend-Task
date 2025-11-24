@@ -57,4 +57,4 @@ Open your browser by clicking [here](http://127.0.0.1:8000/docs)
 
 ## Project Walkthrough:
 
-Click [here]() to access the video walkthrough
+Click [here](https://youtu.be/gS-a7ozUhME) to access the video walkthrough
