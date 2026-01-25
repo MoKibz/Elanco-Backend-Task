@@ -1,6 +1,6 @@
-# Elanco Tick Tracker Backend
+# FastAPI Data Integration Service
 
-A backend API MVP for tracking tick sightings across the UK, built for the Elanco Placement Program technical backend task.
+A backend API MVP for tracking tick sightings across the UK.
 
 ## Getting Started
 
@@ -13,9 +13,9 @@ A backend API MVP for tracking tick sightings across the UK, built for the Elanc
 ### Installation
 **1. Clone the repository (using Terminal/Command Prompt/PowerShell)**
 ```
-git clone https://github.com/MoKibz/Elanco-Backend-Task.git
+git clone https://github.com/MoKibz/fastapi-data-integration-service
 
-cd "Elanco-Backend-Task"
+cd "fastapi-data-integration-service"
 
 ```
 
@@ -55,10 +55,6 @@ fastapi dev src/main.py
 
 Open your browser by going to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) 
 
-
-## Project Walkthrough:
-
-Click [here](https://youtu.be/gS-a7ozUhME) to access the video walkthrough
 
 ---
 
